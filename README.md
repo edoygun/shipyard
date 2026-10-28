@@ -33,8 +33,8 @@ the seed data are fictional.
 You need [Node.js](https://nodejs.org/) 18 or newer.
 
 ```sh
-git clone https://github.com/edoygun/my-first-rea-project.git
-cd my-first-rea-project
+git clone https://github.com/edoygun/shipyard.git
+cd shipyard
 npm install
 ```
 
